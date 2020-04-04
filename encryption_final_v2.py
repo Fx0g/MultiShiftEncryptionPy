@@ -1,6 +1,6 @@
 #simple crypto tool with random algorithm
 #program by methran
-#uploaded to github/rep/kernel_panic/
+#uploaded to https://github.com/KernelPaniccz/KernelPanic/edit/master/
 
 import time
 import os
